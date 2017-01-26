@@ -1,7 +1,16 @@
+*{
+  border:1px solid red;
+}
+
 .jumbotron{
   background-image: url(img/site_showcase_bg.jpg);
   color:white;
 }
 .jumbotron span{
  color: green;
+}
+.jumbotron h1, .jumbotron p{
+  margin-left: 25%;
+}
+.jumbotron img {
 }
